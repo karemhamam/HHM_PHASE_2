@@ -67,6 +67,9 @@ The Heap Memory Manager (HMM) provides a custom implementation of dynamic memory
 
 ### video showing the design and testing
 
+## Note :
+All the commands work, but I shortened the experience in the video and tried the Bash only and the rest works too.
+
 drive link (https://drive.google.com/file/d/1UYj0FH9O_oj7dwnWS8wwVHwF0tNU_3l2/view?usp=sharing)
 
 ## Installation
