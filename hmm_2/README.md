@@ -65,7 +65,10 @@ The Heap Memory Manager (HMM) provides a custom implementation of dynamic memory
 
 ![HmmCalloc flow chart](https://github.com/user-attachments/assets/dd00e87a-f135-4a09-aaac-0a13dcbd7d4f)
 
-### video showing the design and testing
+## video showing the design and testing
+
+### Note :
+All the commands work, but I shortened the experience in the video and tried the Bash only and the rest works too.
 
 drive link (https://drive.google.com/file/d/1UYj0FH9O_oj7dwnWS8wwVHwF0tNU_3l2/view?usp=sharing)
 
