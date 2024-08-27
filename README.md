@@ -67,7 +67,7 @@ The Heap Memory Manager (HMM) provides a custom implementation of dynamic memory
 
 ### video showing the design and testing
 
-drive link (https://drive.google.com/file/d/1O9KiVQSbPvPWZci7LqOv-3auhnnxvbkU/view?usp=sharing)
+drive link ()
 
 ## Installation
 
